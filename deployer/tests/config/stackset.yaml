@@ -18,8 +18,6 @@ create:
   release: prod
   stack_name: deployer-stackset-test
   template: tests/cloudformation/stack/top.yaml
-  accounts:
-    - '356438515751'
   regions:
     - us-east-1
   sync_dirs:
@@ -37,8 +35,6 @@ update:
   release: prod
   stack_name: deployer-stackset-test
   template: tests/cloudformation/stack/top.yaml
-  accounts:
-    - '356438515751'
   regions:
     - us-east-1
     - us-west-2

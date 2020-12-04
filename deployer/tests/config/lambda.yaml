@@ -1,5 +1,4 @@
 global:
-  account: '356438515751'
   sync_dest_bucket: cloudtools-us-east-1
   template_bucket: cloudtools-us-east-1
   sync_base: ./
