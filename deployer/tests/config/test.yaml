@@ -1,5 +1,4 @@
 global:
-  account: '356438515751'
   sync_base: ./
   sync_exclude:
     - .swp
